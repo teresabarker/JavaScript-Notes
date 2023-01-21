@@ -9,3 +9,12 @@ Date: January 19, 2023
 /* This is a comment! */
 // this is also a comment. more casual tho
 
+/* Console */
+// This section is me practicing console.log! 
+// console.log() is how to print something in JavaScript
+
+// Priting my age
+console.log(24);
+
+// Printing my age, but better
+console.log("I am " + 24 + " years old");

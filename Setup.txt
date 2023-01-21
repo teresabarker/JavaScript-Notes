@@ -1,0 +1,33 @@
+Setup Notes
+For when I inevitably forget and need to help someone get setup from scratch in the future
+
+Getting your first JavaScript program to run from scratch in Visual Studio code:
+Step 1:
+Install Visual Studio Code from here https://code.visualstudio.com/
+
+Step 2:
+Create a new project, following the VSCode prompt
+
+Step 3:
+Create a file, perhaps the OG HelloWorld.JavaScript
+
+Step 4: 
+Type the following into your new fancy file: console.log("Hello World!");
+Do you need the semicolon? No. Should you still put it? Always
+
+Step 5:
+Install Node.js and npm from here https://nodejs.org/en/
+I did the LTS (Long Term Support) version
+
+Step 6:
+Check that Node.js and npm installed correctly by typing the following into a new terminal and make sure it spits out the version:
+node -v
+npm -v
+
+Step 7: 
+Run your program!
+Can do this a few different ways:
+You can press the play button inside of Visual Studio Code and check that it outputs things down below
+Or, in that terminal you have open, you can cd to where your HelloWorld.js file lives and type node HelloWorld.js
+
+Good stuff :)
