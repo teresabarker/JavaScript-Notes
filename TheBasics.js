@@ -59,4 +59,9 @@ In JavaScript, there are 7 Fundamental Data Types (<- memorize that, Teresa)
 7) Object
     saving the best for last, objects are collections of data
 
+All of these ^ data types besides objects are Primitive Data Types. They are the most basic data types of the language. 
+They are Uggs and pumpkin spice lattes and strolling through Target in said Uggs with that latte in hand. 
+
+Objects are more complex, angsty - they listen to Fall Out Boy and scroll through Tumblr. 
+
 */
