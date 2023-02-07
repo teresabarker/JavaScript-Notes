@@ -83,3 +83,11 @@ console.log(12 - 9);
 console.log(3 * 4);
 console.log(5 / 10);
 console.log(9 % 3);
+
+/**
+ * String Concatenation
+ * you know this. you've done this. it's just two strings combined with a + 
+ * "easy peasy," + " lemon squeezy"
+ */
+
+console.log('these are ' + 'concatenated ' + 'strings'); // note here cause i already forgot that JavaScript prefers '' single quotes for strings
