@@ -65,3 +65,21 @@ They are Uggs and pumpkin spice lattes and strolling through Target in said Uggs
 Objects are more complex, angsty - they listen to Fall Out Boy and scroll through Tumblr. 
 
 */
+
+/**
+ * Arithmetic Operators
+ * an operator is a character that performs a task in the code
+ * 
+ * JavaScript has built-in arithmetic operators:
+ * Add +
+ * Subtract - 
+ * Divide /
+ * Multiply *
+ * Remainder % (sometimes called modulo cause why not)
+ */
+
+console.log(1 + 1);
+console.log(12 - 9);
+console.log(3 * 4);
+console.log(5 / 10);
+console.log(9 % 3);
