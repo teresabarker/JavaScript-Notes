@@ -91,3 +91,12 @@ console.log(9 % 3);
  */
 
 console.log('these are ' + 'concatenated ' + 'strings'); // note here cause i already forgot that JavaScript prefers '' single quotes for strings
+
+/**
+ * Template Literals
+ * i like to think of these as S tier string concatenation
+ * because why use ' ' + var when you can do ` ${var}`
+ */
+
+let myFaveDrink = 'dirty iced chai'
+console.log(`My go-to drink from Starbucks is a ${myFaveDrink}`);
