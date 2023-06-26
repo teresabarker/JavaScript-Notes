@@ -100,3 +100,8 @@ console.log('these are ' + 'concatenated ' + 'strings'); // note here cause i al
 
 let myFaveDrink = 'dirty iced chai'
 console.log(`My go-to drink from Starbucks is a ${myFaveDrink}`);
+
+/**
+ * To run a JavaScript file from the command line:
+ * node fileName.js
+ */
