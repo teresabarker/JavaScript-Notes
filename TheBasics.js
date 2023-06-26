@@ -105,3 +105,37 @@ console.log(`My go-to drink from Starbucks is a ${myFaveDrink}`);
  * To run a JavaScript file from the command line:
  * node fileName.js
  */
+
+/**
+ * Properties & Methonds
+ * all data types have access to specific properties and methods
+ * these properties are accessed by the dot . operator
+ */
+
+// i.e. all strings have the length property:
+console.log(myFaveDrink.length);
+
+// and some methods:
+console.log(myFaveDrink.toUpperCase());         // self explanatory
+console.log(myFaveDrink.startsWith('A'));       // boolean checker 
+console.log(myFaveDrink.startsWith('d'));
+console.log("   weeeee  ");
+console.log("   weeeee  ".trim());              // removes whitespace before and after word(s)
+console.log("   weeeee  woooo  ");
+console.log("   weeeee  woooo  ".trim());       // note it doesn't remove *all* whitespace
+
+/**
+ * Math!
+ * not just a subject, but an object! built-in!
+ * build-in objects in JS also come with build-in methods
+ */
+
+// Math.random()
+console.log(Math.random());         // prints a random number between 0 (exclusive) and 1 (inclusive)
+
+// to change the range of .random(), multiply it
+// i.e. let's say i want a random number between 0 and 30, i'd do
+console.log(Math.random() * 30);
+
+// but i'm looking to pick a random age, or a song index in a playlist, so no decimals
+console.log(Math.floor((Math.random() *30)));       // :)
